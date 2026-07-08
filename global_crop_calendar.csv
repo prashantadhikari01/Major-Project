@@ -1,0 +1,21 @@
+Crop,Climate_Zone,Elevation_Min_m,Elevation_Max_m,Planting_Start,Planting_End,Harvest_Start,Harvest_End,Growing_Days,Temp_Min_C,Temp_Max_C,Rainfall_Min_mm,Rainfall_Max_mm,Soil_pH_Min,Soil_pH_Max
+Rice,Tropical/Subtropical,0,1800,May,July,September,November,120,20,35,1000,2000,5.0,6.8
+Wheat,Temperate,0,3500,October,December,March,May,140,10,25,300,900,6.0,7.5
+Maize,Tropical/Temperate,0,3000,March,June,August,October,120,18,32,500,1200,5.5,7.5
+Barley,Cool Temperate,1500,4500,March,May,August,September,110,7,22,300,700,6.0,7.5
+Naked Barley,Mountain,2200,4500,March,May,August,September,115,5,20,250,650,6.0,7.8
+Buckwheat,Mountain,1200,4200,May,July,September,October,95,15,25,400,700,5.0,6.8
+Potato,Cool Temperate,1000,4500,February,April,July,October,110,10,22,500,700,5.5,6.5
+Sweet Potato,Tropical,0,1800,March,May,August,October,120,20,30,750,1500,5.5,6.8
+Apple,Temperate,1500,3500,March,April,September,October,180,5,24,600,1200,5.5,7.0
+Pear,Temperate,1200,3200,February,March,August,September,170,7,24,500,1000,6.0,7.5
+Pea,Cool Temperate,800,3500,February,April,May,July,90,10,25,350,700,6.0,7.5
+Bean,Temperate/Tropical,500,3000,March,June,July,September,95,15,28,400,900,6.0,7.5
+Mustard,Temperate,0,2500,October,November,February,March,120,10,25,300,600,6.0,7.5
+Oat,Cool Temperate,1000,3500,October,November,March,April,120,8,24,400,800,5.5,7.5
+Millet,Semi-Arid,0,2500,May,July,September,November,100,20,35,300,700,5.0,7.5
+Sorghum,Semi-Arid,0,2000,May,July,September,November,110,22,35,300,800,5.5,8.0
+Finger Millet,Mountain,500,2500,May,June,September,October,115,18,30,600,1200,5.0,7.5
+Soybean,Temperate/Tropical,0,2500,May,June,September,October,105,20,30,450,900,6.0,7.0
+Chickpea,Semi-Arid,0,2000,October,November,February,March,110,15,30,300,600,6.0,8.0
+Lentil,Temperate,0,2500,October,November,March,April,110,10,25,300,600,6.0,7.5

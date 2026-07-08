@@ -1,0 +1,12 @@
+District,Region,Crop,Planting_Start,Planting_End,Harvest_Start,Harvest_End,Growing_Season,Source
+Mustang,Lower,Naked Barley,October,November,May,July,Winter,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Lower,Wheat,November,November,May,July,Winter,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Lower,Buckwheat,June,July,September,November,Summer,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Lower,Potato (Early),February,March,July,July,Spring,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Lower,Potato,March,April,August,October,Spring,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Lower,Vegetables,March,May,May,November,Spring-Summer,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Upper,Naked Barley,March,March,August,September,Spring,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Upper,Wheat,March,April,August,September,Spring,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Upper,Buckwheat,June,July,October,October,Summer,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Upper,Potato,March,March,October,October,Spring,Mustang Baseline Agrobio Survey Report 2025
+Mustang,Upper,Vegetables,March,May,May,November,Spring-Summer,Mustang Baseline Agrobio Survey Report 2025
